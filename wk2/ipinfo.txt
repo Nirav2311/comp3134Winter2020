@@ -1,0 +1,30 @@
+1. 
+www.microsoft.com
+
+IP Address: 40.113.200.201
+
+Geolocation: US (United States), IA, Iowa, 50307 Des Moines
+
+2.
+georgebrown.ca
+IP Address: 198.96.86.202
+
+Geolocation: CA (Canada), ON, Ontario, M5T Toronto
+
+3.
+linkedin.com
+IP Address: 108.174.10.10
+
+Geolocation: US (United States), CA, California, 94043 Mountain View
+
+4.
+redhet.com
+IP Address: 35.186.238.101
+
+Geolocation: US (United States), CA, California, 94043 Mountain View
+
+5.
+smvs.org
+P Address: 52.172.210.44
+
+Geolocation: IN (India), 16, Maharashtra, 411001 Pune

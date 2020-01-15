@@ -1,0 +1,285 @@
+1. GOOGLE
+-> Domain Name: google.com
+Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-09-09T08:39:04-0700
+Creation Date: 1997-09-15T00:00:00-0700
+Registrar Registration Expiration Date: 2028-09-13T00:00:00-0700
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Google LLC
+Registrant State/Province: CA
+Registrant Country: US
+Admin Organization: Google LLC
+Admin State/Province: CA
+Admin Country: US
+Tech Organization: Google LLC
+Tech State/Province: CA
+Tech Country: US
+Name Server: ns2.google.com
+Name Server: ns1.google.com
+Name Server: ns3.google.com
+Name Server: ns4.google.com
+
+================================================================================
+2.YAHOO
+-> Domain Name: yahoo.com
+Registry Domain ID: 3643624_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-12-18T05:45:43-0800
+Creation Date: 1995-01-18T00:00:00-0800
+Registrar Registration Expiration Date: 2023-01-18T21:00:00-0800
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registry Registrant ID: 
+Registrant Name: Domain Admin
+Registrant Organization: Oath Inc.
+Registrant Street: 22000 AOL Way
+Registrant City: Dulles
+Registrant State/Province: VA
+Registrant Postal Code: 20166
+Registrant Country: US
+Registrant Phone: +1.4083493300
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: 
+Registry Admin ID: 
+Admin Name: Domain Admin
+Admin Organization: Oath Inc.
+Admin Street: 22000 AOL Way
+Admin City: Dulles
+Admin State/Province: VA
+Admin Postal Code: 20166
+Admin Country: US
+Admin Phone: +1.4083493300
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: 
+Registry Tech ID: 
+Tech Name: Domain Admin
+Tech Organization: Oath Inc.
+Tech Street: 22000 AOL Way
+Tech City: Dulles
+Tech State/Province: VA
+Tech Postal Code: 20166
+Tech Country: US
+Tech Phone: +1.4083493300
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: 
+Name Server: ns2.yahoo.com
+Name Server: ns5.yahoo.com
+Name Server: ns3.yahoo.com
+Name Server: ns1.yahoo.com
+Name Server: ns4.yahoo.com
+
+================================================================================
+3. FACEBOOK
+->Domain Name: FACEBOOK.COM
+Registry Domain ID: 2320948_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.registrarsafe.com
+Registrar URL: https://www.registrarsafe.com
+Updated Date: 2019-10-17T18:52:06Z
+Creation Date: 1997-03-29T05:00:00Z
+Registrar Registration Expiration Date: 2028-03-30T04:00:00Z
+Registrar: RegistrarSafe, LLC
+Registrar IANA ID: 3237
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.6503087004
+Domain Status: clientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited https://www.icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://www.icann.org/epp#serverTransferProhibited
+Domain Status: clientUpdateProhibited https://www.icann.org/epp#clientUpdateProhibited
+Domain Status: serverUpdateProhibited https://www.icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Domain Admin
+Registrant Organization: Facebook, Inc.
+Registrant Street: 1601 Willow Rd 
+Registrant City: Menlo Park
+Registrant State/Province: CA
+Registrant Postal Code: 94025
+Registrant Country: US
+Registrant Phone: +1.6505434800
+Registrant Phone Ext:
+Registrant Fax: +1.6505434800
+Registrant Fax Ext:
+Registrant Email: 
+Registry Admin ID: 
+Admin Name: Domain Admin
+Admin Organization: Facebook, Inc.
+Admin Street: 1601 Willow Rd 
+Admin City: Menlo Park
+Admin State/Province: CA
+Admin Postal Code: 94025
+Admin Country: US
+Admin Phone: +1.6505434800
+Admin Phone Ext:
+Admin Fax: +1.6505434800
+Admin Fax Ext:
+Admin Email: 
+Registry Tech ID: 
+Tech Name: Domain Admin
+Tech Organization: Facebook, Inc.
+Tech Street: 1601 Willow Rd 
+Tech City: Menlo Park
+Tech State/Province: CA
+Tech Postal Code: 94025
+Tech Country: US
+Tech Phone: +1.6505434800
+Tech Phone Ext:
+Tech Fax: +1.6505434800
+Tech Fax Ext:
+Tech Email: 
+Name Server: A.NS.FACEBOOK.COM
+Name Server: B.NS.FACEBOOK.COM
+
+=========================================================================
+4. AMAZON
+->Domain Name: amazon.com
+Registry Domain ID: 281209_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-08-26T12:19:56-0700
+Creation Date: 1994-10-31T21:00:00-0800
+Registrar Registration Expiration Date: 2024-10-30T00:00:00-0700
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registry Registrant ID: 
+Registrant Name: Hostmaster, Amazon Legal Dept.
+Registrant Organization: Amazon Technologies, Inc.
+Registrant Street: P.O. Box 8102
+Registrant City: Reno
+Registrant State/Province: NV
+Registrant Postal Code: 89507
+Registrant Country: US
+Registrant Phone: +1.2062664064
+Registrant Phone Ext: 
+Registrant Fax: +1.2062667010
+Registrant Fax Ext: 
+Registrant Email: hostmaster@amazon.com
+Registry Admin ID: 
+Admin Name: Hostmaster, Amazon Legal Dept.
+Admin Organization: Amazon Technologies, Inc.
+Admin Street: P.O. Box 8102
+Admin City: Reno
+Admin State/Province: NV
+Admin Postal Code: 89507
+Admin Country: US
+Admin Phone: +1.2062664064
+Admin Phone Ext: 
+Admin Fax: +1.2062667010
+Admin Fax Ext: 
+Admin Email: hostmaster@amazon.com
+Registry Tech ID: 
+Tech Name: Hostmaster, Amazon Legal Dept.
+Tech Organization: Amazon Technologies, Inc.
+Tech Street: P.O. Box 8102
+Tech City: Reno
+Tech State/Province: NV
+Tech Postal Code: 89507
+Tech Country: US
+Tech Phone: +1.2062664064
+Tech Phone Ext: 
+Tech Fax: +1.2062667010
+Tech Fax Ext: 
+Tech Email: hostmaster@amazon.com
+Name Server: ns4.p31.dynect.net
+Name Server: pdns6.ultradns.co.uk
+Name Server: ns3.p31.dynect.net
+Name Server: ns2.p31.dynect.net
+Name Server: pdns1.ultradns.net
+Name Server: ns1.p31.dynect.net
+
+============================================================
+5.SKYPE
+
+->Domain Name: skype.com
+Registry Domain ID: 97126912_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-03-22T02:47:27-0700
+Creation Date: 2003-04-23T10:34:20-0700
+Registrar Registration Expiration Date: 2020-04-23T00:00:00-0700
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registry Registrant ID: 
+Registrant Name: Domain Administrator
+Registrant Organization: Skype
+Registrant Street: 70 Sir John Rogersons Quay, 
+Registrant City: Dublin
+Registrant State/Province: 
+Registrant Postal Code: 2
+Registrant Country: IE
+Registrant Phone: +11.35312322000
+Registrant Phone Ext: 
+Registrant Fax: +11.35312323333
+Registrant Fax Ext: 
+Registrant Email: domains@microsoft.com
+Registry Admin ID: 
+Admin Name: Domain Administrator
+Admin Organization: Skype
+Admin Street: 70 Sir John Rogersons Quay, 
+Admin City: Dublin
+Admin State/Province: 
+Admin Postal Code: 2
+Admin Country: IE
+Admin Phone: +11.35312322000
+Admin Phone Ext: 
+Admin Fax: +11.35312323333
+Admin Fax Ext: 
+Admin Email: domains@microsoft.com
+Registry Tech ID: 
+Tech Name: Domain Administrator
+Tech Organization: Skype
+Tech Street: 70 Sir John Rogersons Quay, 
+Tech City: Dublin
+Tech State/Province: 
+Tech Postal Code: 2
+Tech Country: IE
+Tech Phone: +11.35312322000
+Tech Phone Ext: 
+Tech Fax: +11.35312323333
+Tech Fax Ext: 
+Tech Email: domains@microsoft.com
+Name Server: ns4.msft.net
+Name Server: ns2.msft.net
+Name Server: ns3.msft.net
+Name Server: ns1.msft.net

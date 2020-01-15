@@ -1,0 +1,76 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap www.google.com www.yahoo.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 16:24 UTC
+Nmap scan report for www.google.com (172.217.165.4)
+Host is up (0.0011s latency).
+Other addresses for www.google.com (not scanned): 2607:f8b0:400b:802::2004
+rDNS record for 172.217.165.4: yyz12s06-in-f4.1e100.net
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for www.yahoo.com (72.30.35.9)
+Host is up (0.0035s latency).
+Other addresses for www.yahoo.com (not scanned): 72.30.35.10 2001:4998:58:1836::10 2001:4998:58:1836::11
+rDNS record for 72.30.35.9: media-router-fp1.prod1.media.vip.bf1.yahoo.com
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 2 IP addresses (2 hosts up) scanned in 25.11 seconds
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap www.google.com www.yahoo.com www.smvs.org www.flipkart.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 16:26 UTC
+
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -p 443 www.google.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 16:30 UTC
+Nmap scan report for www.google.com (172.217.165.4)
+Host is up (0.0020s latency).
+Other addresses for www.google.com (not scanned): 2607:f8b0:400b:801::2004
+rDNS record for 172.217.165.4: yyz12s06-in-f4.1e100.net
+
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 0.48 seconds
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -p 80-443 www.google.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 16:30 UTC
+Nmap scan report for www.google.com (172.217.1.4)
+Host is up (0.0014s latency).
+Other addresses for www.google.com (not scanned): 2607:f8b0:400b:801::2004
+rDNS record for 172.217.1.4: yyz10s14-in-f4.1e100.net
+Not shown: 362 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.87 seconds
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -F www.google.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 16:31 UTC
+Nmap scan report for www.google.com (172.217.1.4)
+Host is up (0.0016s latency).
+Other addresses for www.google.com (not scanned): 2607:f8b0:400b:801::2004
+rDNS record for 172.217.1.4: iad23s25-in-f4.1e100.net
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 3.65 seconds
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -p 1-103 www.google.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 16:33 UTC
+Nmap scan report for www.google.com (172.217.1.4)
+Host is up (0.0012s latency).
+Other addresses for www.google.com (not scanned): 2607:f8b0:400b:802::2004
+rDNS record for 172.217.1.4: iad23s25-in-f4.1e100.net
+Not shown: 102 filtered ports
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 2.84 seconds
